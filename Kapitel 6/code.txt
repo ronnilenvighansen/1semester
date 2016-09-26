@@ -1,0 +1,13 @@
+import java.util.*;
+
+
+/* First Program - 
+Introdution to Java Programming */
+public class Introduction {
+   public static void main(String[] args) { // main
+      System.out.println("Introduction to Java Programming!");
+   }
+   public static void try() { // method
+      System.out.println("Practice!");
+   }
+} /* End */
